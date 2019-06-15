@@ -58,8 +58,8 @@
         <artifactId>maven-compiler-plugin</artifactId>
         <version>3.1</version>
         <configuration>
-          <source>10.3</source>
-          <target>10.3</target>
+          <source>3.6</source>
+          <target>3.6</target>
           <compilerArgs>
             <arg>-Xlint</arg>
           </compilerArgs>
